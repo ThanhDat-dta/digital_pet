@@ -53,6 +53,10 @@ digital_pet/
 - Do not use real mainnet wallets for development/testing.
 - Claiming XP or buying gifts only affects **test MIOTA**.
 
+  0xdd8fc1a3c66090acbe3a0268e43ba29e8141ea73148d1b6f2c8ad7fd1a41857c
+  <img width="1685" height="812" alt="image" src="https://github.com/user-attachments/assets/9e9fc14f-da9e-47f0-ba61-914d0b12d72d" />
+
+
 ## 📜 License
 
 MIT License © 2025
